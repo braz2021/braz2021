@@ -1,0 +1,16 @@
+@charset "UTF8";
+bady {
+    background-color:rgb(14, 150, 235) ;
+    font-family: Arial, Helvetica, sans-serif;
+    font: size 20px;
+}
+h1{
+    color: lime;
+    background-color: violet;
+}
+h2 {
+    color: mediumturquoise;
+}
+p {
+    text-align: justify;
+}
